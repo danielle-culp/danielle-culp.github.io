@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+*{font-family:Biko;}
+body
+{
+	background:#000000;
+}
+
+footer
+{
+}
+
+paragraph
+{text-align:justify;
+}
+
+social
+{text-align:left;
+}
+
+/* Icons
+================================ */
+
+[class*="fi-"] {
+	font-size:32px;
+	text-align:center;
+	color:#FFFFFF;
+}
+	
